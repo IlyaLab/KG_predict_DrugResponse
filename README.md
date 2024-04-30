@@ -10,7 +10,7 @@
 
 
 ##### Step 2: Construct a minimal graph to facilitate drug response prediction for Acute Myeloid Leukemia (AML)
-[Extract TF miRNA to targetGene pairs for the knowledge graph](./notebooks/Step1_Extract_TF_miRNA_to_targetGene_pairs.ipynb) 
+[Extract TF miRNA to target gene pairs for the knowledge graph](./notebooks/Step1_Extract_TF_miRNA_to_targetGene_pairs.ipynb) <br>
 [Fine house keeping genes as reference](./notebooks/Step2_Housekeeping_gene_selection_basedon_Variance_analysis.ipynb)
 
 ##### Step 3: Building predictive models
