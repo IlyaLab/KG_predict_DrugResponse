@@ -21,6 +21,8 @@
 [XGBoost Classifiers for all drugs using different feature sets](./notebooks/Step6_Gene_pair_mutation_XGBoost_Apr20_2024.ipynb)<br>
 
 ##### Feature exploration
-
+[Feature annotation](./notebooks/feature_anno.ipynb)
 
 ##### Regression models
+[Regression analysis](./notebooks/regression_analysis.ipynb)
+[Regression result visulization](./notebooks/regression_figures.ipynb)
