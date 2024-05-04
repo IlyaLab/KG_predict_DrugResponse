@@ -1,3 +1,13 @@
 __pycache__
 .DS_Store
+/archive
+*.csv
+# !data/Ensemble_symbol_annotation.csv
+# !data/Accuracy_all_drugs_median.csv
+# !data/beatAML_wave12_feature_auc_highExpr_Apr30_2024_w12.csv
+# !data/beatAML_wave12_feature_ic50_highExpr_Apr30_2024_w12.csv
+# !data/beatAML_wave14_feature_auc_highExpr_Mar19_2024_w1_4.csv
+# !data/beatAML_wave14_feature_ic50_highExpr_Mar19_2024_w1_4.csv
+# !data/Feature_set3_RNAseq_matrix_w1_4.csv
+# !data/Feature_set3_RNAseq_matrix_w12.csv
 
